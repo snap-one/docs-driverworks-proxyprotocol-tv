@@ -1,2 +1,2 @@
 # docs-driverworks-proxyprotocol-tv
- TV Proxy SDk documentation
+ TV Proxy SDK documentation
